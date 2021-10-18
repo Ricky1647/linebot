@@ -3,7 +3,7 @@
 用於商圈尋寶的猜謎遊戲
 ## Video
 
-[![IMAGE ALT TEXT HERE]((https://i.imgur.com/4Kprwm7.png))](https://youtu.be/JLp1gCuY-MI)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/4Kprwm7.png)](https://youtu.be/JLp1gCuY-MI)
 
 ## 功能
 * 深度學習
