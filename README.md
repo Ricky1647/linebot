@@ -3,7 +3,7 @@
 用於商圈尋寶的猜謎遊戲
 ## Video
 
-<img src=https://youtu.be/JLp1gCuY-MI src=https://i.imgur.com/QSzH6JY.png width="200" height="400" />
+<img  src=https://i.imgur.com/QSzH6JY.png width="200" height="400" />
 
 
 ## 功能
