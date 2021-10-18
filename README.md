@@ -2,7 +2,7 @@
 ## 簡介
 用於商圈尋寶的猜謎遊戲
 ## Video
-![](https://i.imgur.com/QSzH6JY.png=250x250)
+![](https://i.imgur.com/QSzH6JY.png=100x100)
 https://youtu.be/JLp1gCuY-MI
 ## 功能
 * 深度學習
