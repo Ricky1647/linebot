@@ -10,3 +10,5 @@
 * Cumpter Vision
 * Line Bot
 ## [Line Login 實作](https://github.com/Ricky1647/rocky-savannah-81167)
+* 以Line Fresh官網為基底進行實作
+* 秀出登入者以及照片
